@@ -1,0 +1,7 @@
+flask
+gunicorn
+gevent
+opencv-python-headless
+ultralytics
+pygame
+requests
