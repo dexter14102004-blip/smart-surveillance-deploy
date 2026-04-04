@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+uploads/
+telegram_captures/
+detection_log.csv
+yolov8n.pt
